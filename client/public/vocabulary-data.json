@@ -1,0 +1,4002 @@
+[
+  {
+    "word": "preliminary",
+    "pos": "adj",
+    "theme": "Academic",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'prae-' (before) + 'limin-' (threshold)",
+    "career_relevance": "low",
+    "frequency": "\u2605\u2605"
+  },
+  {
+    "word": "tassel",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "Middle English, diminutive of 'tass' (a bunch or cluster)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "derby",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Can refer to a type of horse race, a hat style, or a sporting event",
+    "etymology": "From the city of Derby, England",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "horny",
+    "pos": "adj",
+    "theme": "Emotions",
+    "trap": "yes",
+    "trap_reason": "Can mean sexually aroused or having a horn-like texture",
+    "etymology": "from Old English 'horn' + suffix '-y'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "dong",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Can refer to a Vietnamese currency or slang for male genitalia",
+    "etymology": "From Vietnamese \u0111\u1ed3ng (currency)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "jarring",
+    "pos": "adj/verb",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Can mean causing shock or literally causing a physical jar",
+    "etymology": "from Middle English 'jarre' (to rattle)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "maven",
+    "pos": "n",
+    "theme": "Slang",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Yiddish 'meyvn' (one who understands)",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "puff",
+    "pos": "n/v",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Can mean a quick breath, a type of pastry, or to smoke",
+    "etymology": "from Middle English 'pouff' (a swelling)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "gentrification",
+    "pos": "n",
+    "theme": "Academic",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from 'gentry' (upper class) + '-fication' (process)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "vetting",
+    "pos": "n/v",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Can mean examining animals or carefully screening people/things",
+    "etymology": "from 'veterinarian' originally",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "conjure",
+    "pos": "v",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'conjurare' (to swear together)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "onerous",
+    "pos": "adj",
+    "theme": "Academic",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'onerosus' (burdensome)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "cantonment",
+    "pos": "n",
+    "theme": "Academic",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from French 'canton' (district)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "smoulder",
+    "pos": "v",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Can refer to slow burning or suppressed emotions",
+    "etymology": "from Old English 'smolderen' (to smoke)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "gentrify",
+    "pos": "v",
+    "theme": "Academic",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from 'gentry' (middle/upper class)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "muck",
+    "pos": "n/v",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Can mean dirt or metaphorically unpleasant things",
+    "etymology": "Middle Low German 'mucke' (dirt)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "oxymoron",
+    "pos": "n",
+    "theme": "Academic",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "Greek 'oxy-' (sharp) + 'moros' (foolish)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "namaste",
+    "pos": "intj",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Sanskrit 'namas' (bow/obeisance)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "dot-com",
+    "pos": "n",
+    "theme": "Technology",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from '.com' domain suffix (commercial)",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "remorseWord",
+    "pos": "n",
+    "theme": "Emotions",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'remordere' (to bite again)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "weeny",
+    "pos": "adj",
+    "theme": "Slang",
+    "trap": "yes",
+    "trap_reason": " slang for small or weak, sometimes offensive",
+    "etymology": "diminutive of 'ween' related to 'weeny-worm'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "impending",
+    "pos": "adj",
+    "theme": "Academic",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'impendere' (to hang over)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "blackball",
+    "pos": "v/n",
+    "theme": "Slang",
+    "trap": "yes",
+    "trap_reason": "Can mean to reject someone socially or literally a black voting ball",
+    "etymology": "From voting by black ball exclusion method",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "mystique",
+    "pos": "n",
+    "theme": "Emotions",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from French, from Greek 'mustikos' (secret)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "whimsy",
+    "pos": "n",
+    "theme": "Emotions",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from 'whim-wham' related to sudden fancy",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "scallion",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Old French 'escalogne' (vegetable)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "legible",
+    "pos": "adj",
+    "theme": "Academic",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'legibilis' (able to be read)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "RSVP",
+    "pos": "v",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "French acronym for 'R\u00e9pondez s'il vous pla\u00eet' (please respond) often misunderstood",
+    "etymology": "from French acronym",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "aye",
+    "pos": "adv/ interjection",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Means 'yes' but can be confused with eye or I",
+    "etymology": "from Old English '\u0101' (ever)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "rodent",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'rodere' (to gnaw)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "townie",
+    "pos": "n",
+    "theme": "Slang",
+    "trap": "yes",
+    "trap_reason": "Can be pejorative for non-student locals in college towns",
+    "etymology": "from 'town' + '-ie'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "munchies",
+    "pos": "n",
+    "theme": "Slang",
+    "trap": "yes",
+    "trap_reason": "Slang for snack cravings often induced by cannabis",
+    "etymology": "from 'munch' + plural '-ies'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "raccoon",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Algonquian word 'arakun' (he who scratches with hands)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "haggard",
+    "pos": "adj",
+    "theme": "Emotions",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Old French 'hagard' (wild)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "bougie",
+    "pos": "adj/n",
+    "theme": "Slang",
+    "trap": "yes",
+    "trap_reason": "Slang for bourgeois or pretentious",
+    "etymology": "from 'bourgeois'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "shotgun",
+    "pos": "n/adj",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Can mean a firearm, a type of seat in a vehicle, or a tactic",
+    "etymology": "from 'shot' + 'gun'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "ditto",
+    "pos": "adv/n",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Means same as above but can be confused as a noun or verb",
+    "etymology": "from Italian 'detto' (said)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "triage",
+    "pos": "n/v",
+    "theme": "Medical",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from French 'trier' (to sort)",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "stupor",
+    "pos": "n",
+    "theme": "Medical",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'stupor' (numbness)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "melanin",
+    "pos": "n",
+    "theme": "Medical",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Greek 'melas' (black/dark)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "lactic",
+    "pos": "adj",
+    "theme": "Medical",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'lac' (milk)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "stockpile",
+    "pos": "n/v",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from 'stock' (store) + 'pile'",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "purview",
+    "pos": "n",
+    "theme": "Legal",
+    "trap": "yes",
+    "trap_reason": "Often confused with 'preview'; means scope of authority",
+    "etymology": "from Anglo-French 'purveu' (provided)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "pancreas",
+    "pos": "n",
+    "theme": "Medical",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Greek 'pankreas' (all flesh)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "pit",
+    "pos": "n/v",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Can mean a hole, a seed in fruit, or a fighting area",
+    "etymology": "Old English 'pytt' (hole)",
+    "career_relevance": "low",
+    "frequency": "\u2605\u2605"
+  },
+  {
+    "word": "pit stop",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from motor racing term 'pit' + 'stop'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "neon",
+    "pos": "n/adj",
+    "theme": "Technology",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Greek 'neos' (new)",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "bling",
+    "pos": "n",
+    "theme": "Slang",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "onomatopoeic, mimicking sound of shiny jewelry",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "inoculate",
+    "pos": "v",
+    "theme": "Medical",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'inoculare' (to graft)",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "riff",
+    "pos": "n/v",
+    "theme": "Slang",
+    "trap": "yes",
+    "trap_reason": "Multiple meanings in music and informal speech (to improvise or a repeated music phrase)",
+    "etymology": "origin uncertain, likely related to 'refrain'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "screening",
+    "pos": "n",
+    "theme": "Medical",
+    "trap": "yes",
+    "trap_reason": "Can mean medical testing or movie/video showing",
+    "etymology": "From 'screen' + '-ing' suffix",
+    "career_relevance": "high",
+    "frequency": "\u2605\u2605"
+  },
+  {
+    "word": "mishap",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From prefix mis- (wrong) + hap (luck, chance)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "lending",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From verb 'lend' + '-ing' suffix",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "mule",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Can refer to an animal or a drug courier",
+    "etymology": "From Latin 'mulus', meaning a mule",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "machete",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Spanish 'machete', diminutive of 'macho' (sledgehammer)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "graze",
+    "pos": "v",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Can mean to feed on grass or to scrape the skin",
+    "etymology": "From Old French 'greser' (to eat grass)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "skeet",
+    "pos": "n",
+    "theme": "Sports",
+    "trap": "yes",
+    "trap_reason": "May be confused with slang uses or other clay shooting terms",
+    "etymology": "Possibly from Scandinavian 'skjut' (shoot)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "whack",
+    "pos": "v",
+    "theme": "Slang",
+    "trap": "yes",
+    "trap_reason": "Can mean to hit or kill, or slang for strange",
+    "etymology": "Imitative origin",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "rant",
+    "pos": "v",
+    "theme": "Emotions",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Middle English 'ranten' (to roar)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "rife",
+    "pos": "adj",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Often confused with 'rifle' or misused in meaning",
+    "etymology": "From Old English 'r\u012bf' meaning 'abundant'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "resent",
+    "pos": "v",
+    "theme": "Emotions",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Latin 'resentire' (to feel again)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "affidavit",
+    "pos": "n",
+    "theme": "Legal",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Latin 'affidare' (to pledge)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "vehemently",
+    "pos": "adv",
+    "theme": "Emotions",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Latin 'vehementem' (violent, impetuous)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "cull",
+    "pos": "v",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Can mean to select or to kill animals selectively",
+    "etymology": "From Old French 'cuillir' (to gather)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "gulp",
+    "pos": "v",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "Imitative",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "uncharted",
+    "pos": "adj",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From prefix un- + 'charted' (mapped)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "byline",
+    "pos": "n",
+    "theme": "Academic",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From 'by' + 'line' indicating author line in articles",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "defecate",
+    "pos": "v",
+    "theme": "Medical",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Latin 'defaecare' (to cleanse)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "badass",
+    "pos": "adj",
+    "theme": "Slang",
+    "trap": "yes",
+    "trap_reason": "Can mean tough or impressive, but vulgar/slang",
+    "etymology": "Compound of bad + ass (slang)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "stoked",
+    "pos": "adj",
+    "theme": "Slang",
+    "trap": "yes",
+    "trap_reason": "Means excited but often unknown outside slang context",
+    "etymology": "From 'stoke' (add fuel to fire)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "buzz",
+    "pos": "n",
+    "theme": "Technology",
+    "trap": "yes",
+    "trap_reason": "Can mean sound, excitement, or info spread",
+    "etymology": "Imitative",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "stoop",
+    "pos": "v",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Can mean to bend down or to lower oneself morally",
+    "etymology": "From Middle Dutch 'stoep'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "frittata",
+    "pos": "n",
+    "theme": "Culinary",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "Italian from 'fritto' meaning fried",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "orchestrate",
+    "pos": "v",
+    "theme": "Academic",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From 'orchestra' + '-ate'",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "censure",
+    "pos": "v",
+    "theme": "Legal",
+    "trap": "yes",
+    "trap_reason": "Often confused with 'censor' (to suppress)",
+    "etymology": "From Latin 'censura' (judgment)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "clemency",
+    "pos": "n",
+    "theme": "Legal",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Latin 'clemens' (merciful)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "bona fide",
+    "pos": "adj",
+    "theme": "Legal",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "Latin phrase meaning 'in good faith'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "trifle",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Can mean a small amount or a dessert",
+    "etymology": "From Old French 'trufle'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "malaise",
+    "pos": "n",
+    "theme": "Medical",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From French 'malaise' (discomfort)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "rum",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Can mean alcoholic drink or strange/odd (slang)",
+    "etymology": "Unknown, possibly from English slang",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "narcotic",
+    "pos": "n",
+    "theme": "Medical",
+    "trap": "yes",
+    "trap_reason": "Strict medical/legal sense vs colloquial misuse",
+    "etymology": "From Greek 'nark\u014dtikos' (to numb)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "peg",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Can be a fastener or slang for estimation or stereotype",
+    "etymology": "From Old English 'pegge'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "softball",
+    "pos": "n",
+    "theme": "Sports",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From 'soft' + 'ball'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "top-notch",
+    "pos": "adj",
+    "theme": "Slang",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From nautical term 'notch' on a rope",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "snafu",
+    "pos": "n",
+    "theme": "Slang",
+    "trap": "yes",
+    "trap_reason": "Military acronym now slang for chaotic situation",
+    "etymology": "Acronym for Situation Normal: All F***ed Up",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "squad",
+    "pos": "n",
+    "theme": "Military",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From French 'escouade'",
+    "career_relevance": "low",
+    "frequency": "\u2605\u2605"
+  },
+  {
+    "word": "dilate",
+    "pos": "v",
+    "theme": "Medical",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Latin 'dilatare' (to enlarge)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "corset",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Old French 'corset' (bodice)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "bauble",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Old French 'baboler' (to babble)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "byzantine",
+    "pos": "adj",
+    "theme": "Academic",
+    "trap": "yes",
+    "trap_reason": "Can mean relating to Byzantine Empire or complex/difficult",
+    "etymology": "From Byzantium, ancient city",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "preferential",
+    "pos": "adj",
+    "theme": "Academic",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Latin 'praeferre' (to carry before)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "binder",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Can mean a folder or a person who binds",
+    "etymology": "From bind + -er (agent noun)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "Siamese",
+    "pos": "adj",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Refers to Thailand but often misused or overgeneralized",
+    "etymology": "From Siam, former name of Thailand",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "poach",
+    "pos": "v",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Can mean illegal hunting or cooking method",
+    "etymology": "From Old French 'pochier'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "culinary",
+    "pos": "adj",
+    "theme": "Culinary",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Latin 'culina' (kitchen)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "perennial",
+    "pos": "adj",
+    "theme": "Academic",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Latin 'perennis' (lasting through the years)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "sterilize",
+    "pos": "v",
+    "theme": "Medical",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Latin 'sterilis' (unable to produce)",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "rebel",
+    "pos": "v",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Can be noun or verb, with differing usage",
+    "etymology": "From Latin 'rebellis' (waging war again)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "haute couture",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "French 'haute' = high + 'couture' = sewing",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "goner",
+    "pos": "n",
+    "theme": "Slang",
+    "trap": "yes",
+    "trap_reason": "Means a doomed person or thing, informal usage",
+    "etymology": "From 'gone' + -er",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "hijack",
+    "pos": "v",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Can refer to seizing a vehicle or to diverting a conversation",
+    "etymology": "From 'high' + 'jack' (slang for to rob)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "specimen",
+    "pos": "n",
+    "theme": "Medical",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Latin 'specimen' meaning 'example, pattern'",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "unleash",
+    "pos": "v",
+    "theme": "Emotions",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "un- (reverse) + leash (a strap for controlling an animal)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "underdressed",
+    "pos": "adj",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "under- (insufficiently) + dressed",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "derail",
+    "pos": "v",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "de- (off) + rail (train track)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "rapist",
+    "pos": "n",
+    "theme": "Legal",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'rapere' meaning 'to seize, carry off by force'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "gazebo",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "Possibly coined from 'gaze' + Latin suffix '-ebo' (future tense)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "funk",
+    "pos": "n",
+    "theme": "Emotions",
+    "trap": "yes",
+    "trap_reason": "Can mean a style of music or a mood of depression/fear",
+    "etymology": "Origin uncertain, possibly from Old French 'fungre' meaning a strong smell",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "rite of passage",
+    "pos": "n",
+    "theme": "Cultural",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "rite (ceremony) from Latin 'ritus', passage refers to transition",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "fort",
+    "pos": "n",
+    "theme": "Historical",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Latin 'fortis' meaning strong",
+    "career_relevance": "low",
+    "frequency": "\u2605\u2605\u2605"
+  },
+  {
+    "word": "scotch",
+    "pos": "v",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Can mean to stop or the noun for Scottish whisky",
+    "etymology": "From Old French 'escocchet' meaning to cut/scotch",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "sanctity",
+    "pos": "n",
+    "theme": "Religious",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Latin 'sanctitas' meaning holiness",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "motorcade",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "motor + -cade (procession suffix, from cavalcade)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "fillet",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Can mean boneless meat or a narrow band in architecture",
+    "etymology": "From Old French 'filet' meaning thread, strip",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "shuffle",
+    "pos": "v",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "To walk dragging feet or to mix cards",
+    "etymology": "Origin unknown, related to Old English 'scealfan' to shove",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "eviscerate",
+    "pos": "v",
+    "theme": "Medical",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "ex- (out) + viscera (internal organs)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "androgynous",
+    "pos": "adj",
+    "theme": "Cultural",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "andro- (man) + gyn- (woman) + -ous (adj suffix)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "don",
+    "pos": "v",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Can be a verb meaning 'to put on' or a noun meaning a university teacher or mafia leader",
+    "etymology": "From Latin 'dominus' meaning lord/master",
+    "career_relevance": "low",
+    "frequency": "\u2605\u2605\u2605"
+  },
+  {
+    "word": "primp",
+    "pos": "v",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "Possibly related to 'prime' meaning to prepare or adorn",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "ramp up",
+    "pos": "phrasal verb",
+    "theme": "Technology",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "ramp (inclined surface) + up (increase)",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "incite",
+    "pos": "v",
+    "theme": "Legal",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'incitare' meaning to urge on",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "pea coat",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Dutch 'pijjekker' meaning short woolen jacket",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "layoff",
+    "pos": "n",
+    "theme": "Business",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "lay + off (stop employing)",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "traction",
+    "pos": "n",
+    "theme": "Technology",
+    "trap": "yes",
+    "trap_reason": "Can refer to grip (physics) or gaining popularity (figurative)",
+    "etymology": "from Latin 'tractio' meaning act of drawing",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "heads-up",
+    "pos": "n",
+    "theme": "Slang",
+    "trap": "yes",
+    "trap_reason": "Can be a warning or refers literally to raising heads",
+    "etymology": "literally 'head' + 'up' meaning alertness",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "ammo",
+    "pos": "n",
+    "theme": "Military/Slang",
+    "trap": "yes",
+    "trap_reason": "Short for ammunition but also used figuratively for arguments",
+    "etymology": "abbreviation of 'ammunition'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "infested",
+    "pos": "adj",
+    "theme": "Biology",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'infestare' meaning to attack",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "swirl",
+    "pos": "v",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "origin uncertain, possibly imitative",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "analogy",
+    "pos": "n",
+    "theme": "Academic",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Greek 'analogia' meaning proportion",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "errant",
+    "pos": "adj",
+    "theme": "Academic",
+    "trap": "yes",
+    "trap_reason": "Means 'erring' or wandering; can confuse with 'arrant' meaning complete",
+    "etymology": "from Latin 'errare' meaning to wander or err",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "potent",
+    "pos": "adj",
+    "theme": "General",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'potens' meaning powerful",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "petit",
+    "pos": "adj",
+    "theme": "Academic/Legal",
+    "trap": "yes",
+    "trap_reason": "French word meaning small, can be confused with 'petty'",
+    "etymology": "from French 'petit' meaning small",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "aught",
+    "pos": "n/adj",
+    "theme": "General",
+    "trap": "yes",
+    "trap_reason": "Can mean zero or anything, archaic usage causes confusion",
+    "etymology": "from Old English 'awht' meaning anything",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "leucine",
+    "pos": "n",
+    "theme": "Medical",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Greek 'leukos' meaning white",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "mammogram",
+    "pos": "n",
+    "theme": "Medical",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "mamma- (breast) + -gram (record)",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "turban",
+    "pos": "n",
+    "theme": "Cultural",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Persian 'dulband', Turkish 'tulbend'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "locksmith",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "lock + smith (craftsman)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "spinning",
+    "pos": "v/adj",
+    "theme": "Technology",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Old English 'spinnan' meaning to draw out fibers",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "statin",
+    "pos": "n",
+    "theme": "Medical",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "stem from 'stat-' meaning to stop or control (cholesterol)",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "mutation",
+    "pos": "n",
+    "theme": "Medical",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'mutatio' meaning change",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "novice",
+    "pos": "n",
+    "theme": "General",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'novicius' meaning new",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "nirvana",
+    "pos": "n",
+    "theme": "Religious",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Sanskrit meaning 'blown out, extinguished'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "veep",
+    "pos": "n",
+    "theme": "Slang",
+    "trap": "yes",
+    "trap_reason": "Abbreviation of 'Vice President', informal",
+    "etymology": "contraction of 'Vice President'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "schizophrenic",
+    "pos": "adj",
+    "theme": "Medical",
+    "trap": "yes",
+    "trap_reason": "Can denote medical condition or be used metaphorically",
+    "etymology": "from Greek 'schizo' (split) + 'phren' (mind)",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "pendant",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Jewelry item or architectural hanging element",
+    "etymology": "from Latin 'pendere' meaning to hang",
+    "career_relevance": "low",
+    "frequency": "\u2605\u2605"
+  },
+  {
+    "word": "flea",
+    "pos": "n",
+    "theme": "Biology",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "Old English 'fl\u0113a'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "veteran",
+    "pos": "n",
+    "theme": "General",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'veteranus' meaning old, experienced",
+    "career_relevance": "low",
+    "frequency": "\u2605\u2605"
+  },
+  {
+    "word": "aristocrat",
+    "pos": "n",
+    "theme": "Historical",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Greek 'aristokrat\u0113s' meaning rule of the best",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "confine",
+    "pos": "v",
+    "theme": "Legal",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'confinium' meaning border",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "frenzied",
+    "pos": "adj",
+    "theme": "Emotions",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Old French 'frenesie' meaning madness",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "parishioner",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from parish + -ioner (one belonging to)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "vociferous",
+    "pos": "adj",
+    "theme": "Emotions",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'vox' (voice) + 'ferre' (to carry)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "equestrian",
+    "pos": "adj/n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'equus' (horse)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "torque",
+    "pos": "n",
+    "theme": "Technology",
+    "trap": "yes",
+    "trap_reason": "Confused with 'torque' (neck ornament) or 'torc', also mechanical force vs jewelry",
+    "etymology": "from Latin 'torquere' (to twist)",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "per diem",
+    "pos": "adv/adj",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Latin phrase meaning 'per day', can be confused with salary or expense allowance",
+    "etymology": "Latin 'per diem' (by the day)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "march",
+    "pos": "v/n",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Can mean walking in step, a protest, or the month",
+    "etymology": "Old English 'mearc' (boundary)",
+    "career_relevance": "low",
+    "frequency": "\u2605\u2605\u2605"
+  },
+  {
+    "word": "litigation",
+    "pos": "n",
+    "theme": "Legal",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'litigare' (to dispute)",
+    "career_relevance": "low",
+    "frequency": "\u2605\u2605"
+  },
+  {
+    "word": "protracted",
+    "pos": "adj",
+    "theme": "Academic",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'protrahere' (to draw out)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "defamation",
+    "pos": "n",
+    "theme": "Legal",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'defamare' (to defame)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "heinous",
+    "pos": "adj",
+    "theme": "Emotions",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Old French 'hainos' (hateful)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "demotion",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'de-' (down) + 'motio' (motion)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "stripper",
+    "pos": "n",
+    "theme": "Slang",
+    "trap": "yes",
+    "trap_reason": "Could refer to performer or item used to strip insulation (polysemy)",
+    "etymology": "from 'strip' + agent suffix '-er'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "skull",
+    "pos": "n",
+    "theme": "Medical",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Old Norse 'skalli' (bald head)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "deport",
+    "pos": "v",
+    "theme": "Legal",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'deportare' (to carry away)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "stellar",
+    "pos": "adj",
+    "theme": "Technology",
+    "trap": "yes",
+    "trap_reason": "Means 'related to stars' or 'outstanding/excellent'",
+    "etymology": "from Latin 'stella' (star)",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "willow",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "Old English 'wilig'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "chit",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Can mean a small note, a voucher, or informal term for child",
+    "etymology": "origin uncertain, possibly related to chit-chat",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "carnival",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'carne vale' (farewell to meat)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "pinstripe",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "compound of 'pin' + 'stripe'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "fad",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "origin uncertain, possibly related to 'faddle' (to behave foolishly)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "ice floe",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "'floe' from Old Norse 'floi' (flat mass of floating ice)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "eerie",
+    "pos": "adj",
+    "theme": "Emotions",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Old English 'earg' (cowardly, timid), related to fear",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "shovel",
+    "pos": "n/v",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Old English 'scofl'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "backhoe",
+    "pos": "n",
+    "theme": "Technology",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "compound of 'back' + 'hoe'",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "dredge",
+    "pos": "v/n",
+    "theme": "Technology",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Middle Dutch 'dreggen' (to pull up with a net)",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "hammock",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Ta\u00edno word 'hamaka'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "fortify",
+    "pos": "v",
+    "theme": "Military/Technology",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'fortis' (strong) + '-fy' (make)",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "dismal",
+    "pos": "adj",
+    "theme": "Emotions",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'dies mali' (evil days)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "pail",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Old English 'p\u00e6gel'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "necropolis",
+    "pos": "n",
+    "theme": "Academic",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Greek 'nekros' (dead) + 'polis' (city)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "pharaoh",
+    "pos": "n",
+    "theme": "Academic",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Egyptian 'per-aa' (great house)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "hieroglyphic",
+    "pos": "adj/n",
+    "theme": "Academic",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Greek 'hieros' (sacred) + 'glyph\u0113' (carving)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "gild",
+    "pos": "v",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Old English 'gyldan' (to overlay with gold)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "depraved",
+    "pos": "adj",
+    "theme": "Emotions",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'depravare' (to pervert)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "apartheid",
+    "pos": "n",
+    "theme": "Legal",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Afrikaans 'apartheid' (separateness)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "vouchsafe",
+    "pos": "v",
+    "theme": "Legal/Academic",
+    "trap": "yes",
+    "trap_reason": "Means to grant or permit, can be archaic and confusing",
+    "etymology": "from Old French 'vouchsafier'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "ambience",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Often confused in spelling with 'ambient'; means atmosphere",
+    "etymology": "from French 'ambiance' (atmosphere)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "cobblestone",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "compound of 'cobble' + 'stone'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "incontestable",
+    "pos": "adj",
+    "theme": "Academic",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'in-' (not) + 'contestari' (to call to witness)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "pidgin",
+    "pos": "n",
+    "theme": "Academic",
+    "trap": "yes",
+    "trap_reason": "Often confused with 'pigeon'; refers to simplified language",
+    "etymology": "likely from English pronunciation of Chinese 'business'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "servility",
+    "pos": "n",
+    "theme": "Emotions",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'servus' (slave)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "oblige",
+    "pos": "v",
+    "theme": "Legal/Academic",
+    "trap": "yes",
+    "trap_reason": "Means to require or to do a favor; can confuse contexts",
+    "etymology": "from Latin 'obligare' (to bind)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "swagger",
+    "pos": "v/n",
+    "theme": "Slang",
+    "trap": "yes",
+    "trap_reason": "Means confident walk or style; informal usage",
+    "etymology": "origin unknown, possibly from Scandinavian",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "smug",
+    "pos": "adj",
+    "theme": "Emotions",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "origin uncertain, related to 'smugness' meaning self-satisfied",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "plonk",
+    "pos": "n/v",
+    "theme": "Slang",
+    "trap": "yes",
+    "trap_reason": "Informal term for cheap wine or to drop something noisily",
+    "etymology": "onomatopoeic",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "steeple",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Old English 'stipel' (tower)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "taint",
+    "pos": "v/n",
+    "theme": "Legal/Emotions",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Old French 'teint' (tinge/stain)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "strewn",
+    "pos": "adj/past participle",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Old English 'streowian' (to scatter)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "boulder",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Old English 'boldor' (large rock)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "fjord",
+    "pos": "n",
+    "theme": "Academic/Nature",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Norwegian 'fjord' (narrow inlet)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "gulf",
+    "pos": "n",
+    "theme": "Geography/Daily Life",
+    "trap": "yes",
+    "trap_reason": "Can mean a large sea inlet or a figurative gap/divide",
+    "etymology": "From Old English 'gulfe', related to Latin 'gulba' meaning a hollow",
+    "career_relevance": "low",
+    "frequency": "\u2605\u2605"
+  },
+  {
+    "word": "malarial",
+    "pos": "adj",
+    "theme": "Medical",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Italian 'mala aria' meaning 'bad air', relating to malaria",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "upheaval",
+    "pos": "n",
+    "theme": "Society/Events",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From 'up' + 'heave' (to lift), denoting violent lifting or disturbance",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "cypress",
+    "pos": "n",
+    "theme": "Nature",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Old French 'cipres', from Latin 'cyparissus'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "cedar",
+    "pos": "n",
+    "theme": "Nature",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Old English 'ceder', via Latin 'cedrus' from Greek 'kedros'",
+    "career_relevance": "low",
+    "frequency": "\u2605\u2605"
+  },
+  {
+    "word": "rugged",
+    "pos": "adj",
+    "theme": "Daily Life/Geography",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Old English 'rugged' meaning rough or wrinkled",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "crag",
+    "pos": "n",
+    "theme": "Geography/Nature",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Old Norse 'kraki' meaning a hook or craggy point",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "moor",
+    "pos": "n",
+    "theme": "Geography/Nature",
+    "trap": "yes",
+    "trap_reason": "Can be noun (open land) or verb (to anchor a boat)",
+    "etymology": "From Old English 'm\u014dr' meaning a marsh or wasteland",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "pique",
+    "pos": "v/n",
+    "theme": "Emotions",
+    "trap": "yes",
+    "trap_reason": "Verb means to provoke, noun means feeling of irritation or pride",
+    "etymology": "From French 'piquer' meaning to prick or irritate",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "trapezoid",
+    "pos": "n",
+    "theme": "Mathematics/Academic",
+    "trap": "yes",
+    "trap_reason": "Different meanings in US (quadrilateral with one pair of parallel sides) and UK (no parallel sides)",
+    "etymology": "From Greek 'trapezion' meaning little table",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "chivalry",
+    "pos": "n",
+    "theme": "Historical/Social",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Old French 'chevalerie' related to 'chevalier' (knight)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "ridden",
+    "pos": "adj",
+    "theme": "Daily Life/Idiomatic",
+    "trap": "yes",
+    "trap_reason": "Often used in compounds meaning negatively affected (e.g., guilt-ridden)",
+    "etymology": "Past participle of 'ride'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "famine",
+    "pos": "n",
+    "theme": "Society/Disaster",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Old French 'famine', from Latin 'fames' meaning hunger",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "Eurasia",
+    "pos": "n",
+    "theme": "Geography/Academic",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "Portmanteau of 'Europe' + 'Asia'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "rec",
+    "pos": "n",
+    "theme": "Slang/Daily Life",
+    "trap": "yes",
+    "trap_reason": "Short for 'recording', 'recommendation', or 'recreation' depending on context",
+    "etymology": "Abbreviation of 'record' or 'recreation'",
+    "career_relevance": "low",
+    "frequency": "\u2605\u2605"
+  },
+  {
+    "word": "short-handed",
+    "pos": "adj",
+    "theme": "Daily Life/Work",
+    "trap": "yes",
+    "trap_reason": "Can mean understaffed or playing with fewer players",
+    "etymology": "Compound of 'short' + 'hand' (help/workforce)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "scrutinize",
+    "pos": "v",
+    "theme": "Academic/Work",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Latin 'scrutari' meaning to search thoroughly",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "verdant",
+    "pos": "adj",
+    "theme": "Nature",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Old French 'verd' meaning green, from Latin 'viridis'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "intel",
+    "pos": "n",
+    "theme": "Technology/Slang",
+    "trap": "yes",
+    "trap_reason": "Can mean intelligence information or refer to the company 'Intel'",
+    "etymology": "Short form of 'intelligence'",
+    "career_relevance": "high",
+    "frequency": "\u2605\u2605\u2605"
+  },
+  {
+    "word": "wound up",
+    "pos": "adj/phr",
+    "theme": "Emotions/Daily Life",
+    "trap": "yes",
+    "trap_reason": "Can mean tense/upset or finished winding something",
+    "etymology": "Past participle of 'wind' (to turn)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "wuss",
+    "pos": "n",
+    "theme": "Slang/Emotions",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "Probably from dialectal 'wus' meaning weakling",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "cougar",
+    "pos": "n",
+    "theme": "Nature/Slang",
+    "trap": "yes",
+    "trap_reason": "Can mean a large wild cat or slang for an older woman seeking younger men",
+    "etymology": "From Tupi-Guarani 'cuguacu', via French 'couguar'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "mattress",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Arabic 'matrah' meaning a place where something is thrown or laid",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "cytoplasm",
+    "pos": "n",
+    "theme": "Medical/Biology",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Greek 'kytos' (container) + 'plasma' (formed substance)",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "indulgence",
+    "pos": "n",
+    "theme": "Emotions/Society",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Latin 'indulgentia' meaning kindness or leniency",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "recalibrate",
+    "pos": "v",
+    "theme": "Technology/Academic",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "Prefix 're-' (again) + 'calibrate' (to adjust)",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "mitochondrion",
+    "pos": "n",
+    "theme": "Medical/Biology",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Greek 'mitos' (thread) + 'chondrion' (granule)",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "fructose",
+    "pos": "n",
+    "theme": "Medical/Biology",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Latin 'fructus' meaning fruit + suffix '-ose' (sugar)",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "deli",
+    "pos": "n",
+    "theme": "Daily Life/Food",
+    "trap": "yes",
+    "trap_reason": "Short for delicatessen, sometimes confused with delicacy",
+    "etymology": "Shortened form of 'delicatessen' from German",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "laden",
+    "pos": "adj",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "Past participle of 'lade' (to load), Old English origin",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "sucrose",
+    "pos": "n",
+    "theme": "Medical/Biology",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Latin 'sucrum' (sugar) + suffix '-ose' (sugar)",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "deficit",
+    "pos": "n",
+    "theme": "Economics/Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Latin 'deficere' meaning to fail or be lacking",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "overconsumption",
+    "pos": "n",
+    "theme": "Economics/Health",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "Prefix 'over-' (excessive) + consumption",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "turmeric",
+    "pos": "n",
+    "theme": "Food/Medicine",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Latin 'terra merita' meaning 'meritorious earth'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "mob",
+    "pos": "n",
+    "theme": "Society/Slang",
+    "trap": "yes",
+    "trap_reason": "Can mean crowd, organized crime group, or informal group",
+    "etymology": "From Latin 'mobile vulgus' meaning fickle crowd",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "provolone",
+    "pos": "n",
+    "theme": "Food",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Italian 'provola' + augmentative suffix '-one'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "unhinged",
+    "pos": "adj",
+    "theme": "Emotions/Mental Health",
+    "trap": "yes",
+    "trap_reason": "Literally means 'door off its hinges' or figuratively mentally unstable",
+    "etymology": "Prefix 'un-' (not) + 'hinged'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "glut",
+    "pos": "n/v",
+    "theme": "Economics/Daily Life",
+    "trap": "yes",
+    "trap_reason": "Noun means excess supply; verb means to supply excessively",
+    "etymology": "From Old English 'glutt' meaning surplus",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "diction",
+    "pos": "n",
+    "theme": "Academic/Linguistics",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Latin 'dictio' meaning saying or speaking",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "pharyngeal",
+    "pos": "adj",
+    "theme": "Medical/Anatomy",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Latin 'pharynx' (throat) + suffix '-eal' (pertaining to)",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "wart",
+    "pos": "n",
+    "theme": "Medical/Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Old English 'wearte'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "Styrofoam",
+    "pos": "n",
+    "theme": "Technology/Daily Life",
+    "trap": "yes",
+    "trap_reason": "Brand name often used generically for expanded polystyrene foam",
+    "etymology": "Trademark combining 'styrene' + 'foam'",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "globe-trot",
+    "pos": "v",
+    "theme": "Daily Life/Travel",
+    "trap": "yes",
+    "trap_reason": "Compound verb, can be spelled as one or two words",
+    "etymology": "From 'globe' + 'trot' (to run quickly)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "segue",
+    "pos": "v/n",
+    "theme": "Music/Communication",
+    "trap": "yes",
+    "trap_reason": "Pronounced 'segway', meaning a smooth transition; often confused with 'Segway'",
+    "etymology": "From Italian 'segue' (he/she follows), from Latin 'sequor' (to follow)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "berate",
+    "pos": "v",
+    "theme": "Emotions/Communication",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "Possibly from obscure origins relating to scolding",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "provocative",
+    "pos": "adj",
+    "theme": "Emotions/Communication",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Latin 'provocare' meaning to call forth",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "defy",
+    "pos": "v",
+    "theme": "Emotions/Society",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Old French 'desfier' meaning to renounce faith or to challenge",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "contraband",
+    "pos": "n",
+    "theme": "Legal",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Italian 'contrabbando' from 'contra' (against) + 'bando' (ban)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "hijab",
+    "pos": "n",
+    "theme": "Cultural/Society",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Arabic 'hijab' meaning barrier or partition",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "hetero-",
+    "pos": "prefix",
+    "theme": "Academic/Science",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "From Greek 'heteros' meaning different or other",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "pep",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Informal/slang term for energy or enthusiasm, sometimes confused with PEP (post-exposure prophylaxis) in medical contexts",
+    "etymology": "Possibly from 'pepper' implying spice or energy",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "repressive",
+    "pos": "adj",
+    "theme": "Academic",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'reprimere' meaning 'to press back' with suffix -ive",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "renege",
+    "pos": "v",
+    "theme": "Legal",
+    "trap": "yes",
+    "trap_reason": "Often confused with 'renegade'; means to go back on a promise or obligation",
+    "etymology": "from Latin 'renegare' meaning 'to deny, refuse'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "freelance",
+    "pos": "adj/v",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from medieval English 'free lance' (free-soldier with a lance)",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "pending",
+    "pos": "adj/prep",
+    "theme": "Legal",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'pendere' meaning 'to hang'",
+    "career_relevance": "low",
+    "frequency": "\u2605\u2605"
+  },
+  {
+    "word": "vignette",
+    "pos": "n",
+    "theme": "Academic",
+    "trap": "yes",
+    "trap_reason": "Can mean a brief story / sketch or a decorative design on a page",
+    "etymology": "from Old French 'vigne' (vine), originally a vine-leaf design",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "commensurate",
+    "pos": "adj",
+    "theme": "Academic",
+    "trap": "yes",
+    "trap_reason": "Often confused in usage with 'commiserate'; means proportional or corresponding in size or degree",
+    "etymology": "from Latin 'com-' (together) + 'mensuratus' (measured)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "cohort",
+    "pos": "n",
+    "theme": "Academic",
+    "trap": "yes",
+    "trap_reason": "Can refer to a demographic group or a companion; military and statistical meanings differ",
+    "etymology": "from Latin 'cohors' meaning 'enclosure, company of soldiers'",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "impositionWord Meaning",
+    "pos": "n",
+    "theme": "Legal",
+    "trap": "yes",
+    "trap_reason": "Phrase mistakenly concatenated as one word; 'imposition' means enforcement of a demand or burden",
+    "etymology": "from Latin 'imponere' meaning 'to put upon'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "freesia",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "Named after German botanist Friedrich Freese",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "skulk",
+    "pos": "v",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "Old Norse origin related to hiding or lurking",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "whisk",
+    "pos": "v/n",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "As verb means to rapidly move or mix; as noun is a kitchen tool, but can also mean to remove quickly",
+    "etymology": "unknown origin, possibly imitation of sound",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "incubus",
+    "pos": "n",
+    "theme": "Academic",
+    "trap": "yes",
+    "trap_reason": "Can mean a legendary demon or a psychological burden",
+    "etymology": "Latin 'incubare' meaning 'to lie upon'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "encrusted",
+    "pos": "adj",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from 'en-' (to cause) + 'crust' + -ed",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "enamel",
+    "pos": "n/v",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Can be a glassy coating or a type of paint; also can mean to coat or cover",
+    "etymology": "from Old French 'esmail' from Germanic root",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "wacko",
+    "pos": "adj/n",
+    "theme": "Slang",
+    "trap": "yes",
+    "trap_reason": "Informal/slang term for crazy person; spelling variations confuse meaning",
+    "etymology": "probably from 'whack' or 'wacky'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "foyer",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "French origin meaning 'hearth, lobby'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "whoopee",
+    "pos": "n",
+    "theme": "Slang",
+    "trap": "yes",
+    "trap_reason": "Can refer to celebration or sexual activity; informal term",
+    "etymology": "imitative",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "metallic",
+    "pos": "adj",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from 'metal' + suffix -ic",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "burgundy",
+    "pos": "n/adj",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Burgundy region of France",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "flip-flop",
+    "pos": "n/v",
+    "theme": "Slang",
+    "trap": "yes",
+    "trap_reason": "Can mean a sandal or a sudden reversal in opinion",
+    "etymology": "onomatopoeic",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "flip-flopper",
+    "pos": "n",
+    "theme": "Slang",
+    "trap": "yes",
+    "trap_reason": "Derives from flip-flop; denotes a person frequently changing opinions",
+    "etymology": "from 'flip-flop' + -er",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "clacker",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from 'clack' + agentive -er",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "blithely",
+    "pos": "adv",
+    "theme": "Emotions",
+    "trap": "yes",
+    "trap_reason": "Means cheerfully or casually indifferent, sometimes negative connotation",
+    "etymology": "from Old English 'bl\u012b\u00fee' + -ly",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "lapis",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Short for lapis lazuli, a gemstone, often unknown outside geology/art contexts",
+    "etymology": "Latin 'lapis' meaning 'stone'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "lousy",
+    "pos": "adj",
+    "theme": "Slang",
+    "trap": "yes",
+    "trap_reason": "Originally meaning infested with lice, now means poor quality",
+    "etymology": "from 'louse' + -y",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "cellulite",
+    "pos": "n",
+    "theme": "Medical",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from 'cellule' French diminutive + -ite",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "chowder",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from French 'chaudi\u00e8re' meaning cauldron",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "cavalier",
+    "pos": "adj/n",
+    "theme": "Academic",
+    "trap": "yes",
+    "trap_reason": "Means casual or dismissive, also historical term for horseman",
+    "etymology": "from French 'chevalier' meaning knight",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "satchel",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "Old French 'sachele'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "mock-up",
+    "pos": "n",
+    "theme": "Technology",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "mock (to imitate) + up (prefix indicating completeness)",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "chained",
+    "pos": "adj/v",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from 'chain' + -ed",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "searing",
+    "pos": "adj",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Old English 'sear' meaning 'dry, withered'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "paratrooper",
+    "pos": "n",
+    "theme": "Military",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "para- (from parachute) + trooper (soldier)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "compote",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from French 'comp\u00f4te' meaning mixture",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "rupture",
+    "pos": "n/v",
+    "theme": "Medical",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'ruptura' from 'ruptus' broken",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "precede",
+    "pos": "v",
+    "theme": "Academic",
+    "trap": "yes",
+    "trap_reason": "Often confused with 'proceed'; means to come before",
+    "etymology": "from Latin 'praecedere' (pre- 'before' + cedere 'to go')",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "dimple",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "diminutive of 'dim'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "puritan",
+    "pos": "n/adj",
+    "theme": "Academic",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'puritas' meaning purity",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "risque",
+    "pos": "adj",
+    "theme": "Slang",
+    "trap": "yes",
+    "trap_reason": "Means slightly indecent or daring; spelling and pronunciation borrowed from French",
+    "etymology": "from French 'risqu\u00e9', past participle of 'risquer'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "mugwump",
+    "pos": "n",
+    "theme": "Slang",
+    "trap": "yes",
+    "trap_reason": "Obscure term meaning a person who is independent or aloof, sometimes political",
+    "etymology": "from Algonquian via American English",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "cleat",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Means a type of shoe spike or a fitting on a boat, multiple meanings",
+    "etymology": "Old English 'cl\u00e6t' meaning a wedge",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "soppy",
+    "pos": "adj",
+    "theme": "Slang",
+    "trap": "yes",
+    "trap_reason": "Can mean overly sentimental or soaked; context needed",
+    "etymology": "from 'sop' + -y",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "crutch",
+    "pos": "n",
+    "theme": "Medical",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "Old English 'crycc'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "pastor",
+    "pos": "n",
+    "theme": "Academic",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "Latin 'pastor' meaning shepherd",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "runner-up",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "runner + up",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "chutney",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Hindi 'chatni'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "postnatalWord Meaning",
+    "pos": "adj",
+    "theme": "Medical",
+    "trap": "yes",
+    "trap_reason": "Phrase mistakenly concatenated as one word; 'postnatal' means after birth",
+    "etymology": "post- (after) + natal (birth)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "foreskin",
+    "pos": "n",
+    "theme": "Medical",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "fore- (before) + skin",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "coercive",
+    "pos": "adj",
+    "theme": "Legal",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'coercere' meaning to restrain",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "fluoride",
+    "pos": "n",
+    "theme": "Medical",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'fluor-' meaning flow or flux, suffix '-ide' indicating chemical compound",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "retrograde",
+    "pos": "adj",
+    "theme": "Academic",
+    "trap": "yes",
+    "trap_reason": "Used in astronomy and also described as backward or degenerate in broader contexts",
+    "etymology": "Latin 'retro' (backward) + 'gradus' (step)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "icky",
+    "pos": "adj",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "childish form of 'ick', imitative",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "wheedle",
+    "pos": "v",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Similar to 'widdle' or 'whittle' which have different meanings",
+    "etymology": "from Old English 'whitlian' to persuade by flattery",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "ace",
+    "pos": "n/v/adj",
+    "theme": "Slang",
+    "trap": "yes",
+    "trap_reason": "Can mean top score, expert, or asexual identity depending on context",
+    "etymology": "from Old French 'as', Latin 'as' meaning 'unit, at dice'",
+    "career_relevance": "low",
+    "frequency": "\u2605\u2605"
+  },
+  {
+    "word": "facade",
+    "pos": "n",
+    "theme": "Academic",
+    "trap": "yes",
+    "trap_reason": "Can mean building front or metaphorically a false front",
+    "etymology": "French 'fa\u00e7ade' from Italian 'facciata' from 'faccia' (face)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "laid-back",
+    "pos": "adj",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "phrase combining 'laid' + 'back' meaning relaxed",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "mull",
+    "pos": "v",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Can mean to think deeply or to heat and spice wine",
+    "etymology": "origin uncertain, possibly from Middle English",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "commune",
+    "pos": "n/v",
+    "theme": "Academic",
+    "trap": "yes",
+    "trap_reason": "Can mean a group living together or to share thoughts deeply",
+    "etymology": "French 'commune' from Latin 'communis' (common)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "feat",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "Old French 'fait' (deed) from Latin 'factum'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "constable",
+    "pos": "n",
+    "theme": "Legal",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "Old French from Latin 'comes stabuli' meaning count of the stable",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "pithy",
+    "pos": "adj",
+    "theme": "Academic",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from 'pith' meaning essential part + suffix '-y'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "crick",
+    "pos": "n",
+    "theme": "Medical",
+    "trap": "yes",
+    "trap_reason": "Means a painful muscle cramp or a small stream (dialectal)",
+    "etymology": "from Old English 'cricc' meaning bend or cramp",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "usher",
+    "pos": "n/v",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Old French 'ussier', from Latin 'ostiarius' (doorkeeper)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "prolapse",
+    "pos": "n/v",
+    "theme": "Medical",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'pro-' (forward) + 'labi' (to slip)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "dyslexic",
+    "pos": "adj",
+    "theme": "Medical",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Greek 'dys-' (bad) + 'lexis' (word)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "atrium",
+    "pos": "n",
+    "theme": "Medical",
+    "trap": "yes",
+    "trap_reason": "An anatomical heart chamber or an architectural open space",
+    "etymology": "Latin 'atrium' meaning central hall",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "cremation",
+    "pos": "n",
+    "theme": "Legal",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'cremare' meaning to burn",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "ramble",
+    "pos": "v/n",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "To wander aimlessly or to talk in a disorganized way",
+    "etymology": "from Old French 'rambler' meaning to wander",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "plantain",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "A type of banana or a common weed (herbaceous plant)",
+    "etymology": "from Latin 'plantago' meaning sole of the foot (leaf shape)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "mortuary",
+    "pos": "n",
+    "theme": "Medical",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'mortuarius' relating to the dead",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "canter",
+    "pos": "n/v",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "A horse's gait or to move at a moderate pace",
+    "etymology": "from Old English 'can' (to sing) + '-ter', originally a horse's pace",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "muff",
+    "pos": "n/v",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Warm hand covering or to handle clumsily/fail",
+    "etymology": "Middle English 'muff', could be imitative",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "deteriorate",
+    "pos": "v",
+    "theme": "Academic",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'deteriorare' meaning to make worse",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "spruce up",
+    "pos": "phrasal v",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "possibly from Poland 'Prusy' (Prussia), implying neatness",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "collagen",
+    "pos": "n",
+    "theme": "Medical",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Greek 'kolla' meaning glue + '-gen' meaning producing",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "grub",
+    "pos": "n/v",
+    "theme": "Slang",
+    "trap": "yes",
+    "trap_reason": "Can mean food, or an insect larva, or to dig",
+    "etymology": "Old English 'grubban' to dig",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "cobweb",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Old English 'coppe' (spider) + 'web'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "enuresis",
+    "pos": "n",
+    "theme": "Medical",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Greek 'enourein' meaning to urinate in",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "nocturnal",
+    "pos": "adj",
+    "theme": "Academic",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "Latin 'nocturnus' meaning of the night",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "nachos",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "named after Ignacio 'Nacho' Anaya, inventor",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "aperture",
+    "pos": "n",
+    "theme": "Technology",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'apertura' meaning opening",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "meek",
+    "pos": "adj",
+    "theme": "Emotions",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "Old Norse 'mj\u00fakr' meaning soft",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "bunk",
+    "pos": "n/v",
+    "theme": "Slang",
+    "trap": "yes",
+    "trap_reason": "Can mean a bed or nonsense/falsehood",
+    "etymology": "origin uncertain, possibly abbreviated 'bunkum' from a place name",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "scathing",
+    "pos": "adj",
+    "theme": "Emotions",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Old Norse 'skatha' meaning to harm",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "discreet",
+    "pos": "adj",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Often confused with 'discrete' which means separate/distinct",
+    "etymology": "Latin 'discretus' meaning separate",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "rehash",
+    "pos": "v",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Means to reuse ideas without change; can be taken negatively",
+    "etymology": "compound of 're-' (again) + 'hash' (to chop)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "furnace",
+    "pos": "n",
+    "theme": "Technology",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'fornax' meaning oven",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "saddle",
+    "pos": "n/v",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Old English 'sadol'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "nit",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Means a louse egg or a very small amount/silly person",
+    "etymology": "Old English 'hnitu'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "bricklaying",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "compound of 'brick' + 'laying'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "kennel",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "Late Middle English, variant of Old French 'canil' (doghouse)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "mumble",
+    "pos": "v",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "onomatopoeic",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "ripped",
+    "pos": "adj",
+    "theme": "Slang",
+    "trap": "yes",
+    "trap_reason": "Can mean torn or muscular physique",
+    "etymology": "past participle of 'rip'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "hymen",
+    "pos": "n",
+    "theme": "Medical",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Greek 'hymen' meaning membrane",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "backfire",
+    "pos": "v/n",
+    "theme": "Technology",
+    "trap": "yes",
+    "trap_reason": "Engine explosion or a plan having the opposite effect",
+    "etymology": "compound of 'back' + 'fire'",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "knicker",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "Can mean a type of trousers or British slang for underwear",
+    "etymology": "short for knickerbockers",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "outgrow",
+    "pos": "v",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "compound of 'out-' + 'grow'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "denial",
+    "pos": "n",
+    "theme": "Emotions",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'denegare' meaning to refuse",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "feta",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Greek 'feta' meaning slice",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "dimmer",
+    "pos": "n",
+    "theme": "Technology",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from 'dim' + suffix '-er' (agent noun)",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "violation",
+    "pos": "n",
+    "theme": "Legal",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'violare' meaning 'to violate'",
+    "career_relevance": "low",
+    "frequency": "\u2605\u2605"
+  },
+  {
+    "word": "wobble",
+    "pos": "v",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "origin uncertain, probably imitative",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "audacity",
+    "pos": "n",
+    "theme": "Emotions",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'audax' meaning 'bold, daring'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "whinge",
+    "pos": "v",
+    "theme": "Slang",
+    "trap": "yes",
+    "trap_reason": "'whinge' often confused with 'whine' but differs regionally",
+    "etymology": "likely imitative; English dialect",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "parapet",
+    "pos": "n",
+    "theme": "Architecture",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Italian 'parapetto' (para 'to defend' + petto 'breast')",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "deluded",
+    "pos": "adj",
+    "theme": "Emotions",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'deludere' meaning 'to deceive'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "sloven",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Middle English 'sloven' meaning 'untidy person'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "deviant",
+    "pos": "adj",
+    "theme": "Psychology",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'devians', from 'de-' + 'via' (way, road)",
+    "career_relevance": "low",
+    "frequency": "\u2605\u2605"
+  },
+  {
+    "word": "deranged",
+    "pos": "adj",
+    "theme": "Medical",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from French 'd\u00e9ranger' meaning 'to disturb'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "confiscate",
+    "pos": "v",
+    "theme": "Legal",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'confiscare' meaning 'to appropriate'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "nebula",
+    "pos": "n",
+    "theme": "Technology",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'nebula' meaning 'mist, vapor, cloud'",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "peachy",
+    "pos": "adj",
+    "theme": "Slang",
+    "trap": "yes",
+    "trap_reason": "informal: can mean both good and naive, causing some confusion",
+    "etymology": "from 'peach' + '-y' suffix",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "epiphany",
+    "pos": "n",
+    "theme": "Academic",
+    "trap": "yes",
+    "trap_reason": "means both a religious festival and a sudden insight",
+    "etymology": "from Greek 'epiphaneia' meaning 'manifestation'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "hitchhike",
+    "pos": "v",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from 'hitch' + 'hike'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "feces",
+    "pos": "n",
+    "theme": "Medical",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'faex' meaning 'dregs'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "patriarchy",
+    "pos": "n",
+    "theme": "Social Science",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Greek 'patriarch\u0113s' ('patri-' father + 'arch\u0113s' ruler)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "abnormality",
+    "pos": "n",
+    "theme": "Medical",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from prefix 'ab-' (away from) + 'normal'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "miscarriage",
+    "pos": "n",
+    "theme": "Medical",
+    "trap": "yes",
+    "trap_reason": "can mean both failure of pregnancy and general failure",
+    "etymology": "from 'mis-' (wrongly) + 'carriage' (carrying)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "sheath",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Old English 'scea\u00f0' meaning 'covering'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "crevice",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Old French 'crevice' meaning 'crack'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "bunker",
+    "pos": "n",
+    "theme": "Military",
+    "trap": "yes",
+    "trap_reason": "also used in golf, causing contextual confusion",
+    "etymology": "origin uncertain, possibly Scottish",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "restraint",
+    "pos": "n",
+    "theme": "Legal",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Old French 'restreindre' meaning 'to limit'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "arachnophobia",
+    "pos": "n",
+    "theme": "Medical",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Greek 'arachne' (spider) + 'phobia' (fear)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "tracksuit",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "compound of 'track' + 'suit'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "disheartened",
+    "pos": "adj",
+    "theme": "Emotions",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "prefix 'dis-' (negation) + 'heartened' (encouraged)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "abstinenceWord",
+    "pos": "n",
+    "theme": "Medical",
+    "trap": "yes",
+    "trap_reason": "appears to be concatenated error from 'abstinence'; may confuse recognition",
+    "etymology": "from Latin 'abstinere' meaning 'to hold back'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "homophobia",
+    "pos": "n",
+    "theme": "Social Science",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from 'homo-' (same) + 'phobia' (fear)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "preaching",
+    "pos": "v",
+    "theme": "Religious",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Old English 'preacian' meaning 'to proclaim'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "saga",
+    "pos": "n",
+    "theme": "Academic",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Old Norse 'saga' meaning 'story'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "pistol",
+    "pos": "n",
+    "theme": "Military",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "origin uncertain, possibly Czech 'pistole'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "hostage",
+    "pos": "n",
+    "theme": "Legal",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Old French 'ostage'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "recoil",
+    "pos": "v",
+    "theme": "Technology",
+    "trap": "yes",
+    "trap_reason": "can be both reflexive action and backward movement of firearm",
+    "etymology": "from French 'recoillir' (re: back + coillir: to gather)",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "fizzy",
+    "pos": "adj",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from 'fizz' + '-y' suffix",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "libido",
+    "pos": "n",
+    "theme": "Psychology",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'libido' meaning 'desire'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "lightweight",
+    "pos": "adj",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "can mean physically light or metaphorically insignificant",
+    "etymology": "compound of 'light' + 'weight'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "maiden",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "historically means 'unmarried woman' but also used in other contexts (e.g., maiden voyage)",
+    "etymology": "from Old English 'm\u00e6gden' meaning 'young woman'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "astute",
+    "pos": "adj",
+    "theme": "Emotions",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'astutus' meaning 'crafty, clever'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "diabetic",
+    "pos": "adj",
+    "theme": "Medical",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Greek 'diabetes' meaning 'siphon'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "canned",
+    "pos": "adj",
+    "theme": "Technology",
+    "trap": "yes",
+    "trap_reason": "means both preserved in a can and fired (slang)",
+    "etymology": "from 'can' + past participle suffix '-ed'",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "woozy",
+    "pos": "adj",
+    "theme": "Medical",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "origin uncertain, possibly imitative",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "peony",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'paeonia', named after Paeon (Greek mythology)",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "elf",
+    "pos": "n",
+    "theme": "Mythology",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Old English '\u00e6lf'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "equilibrium",
+    "pos": "n",
+    "theme": "Academic",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'aequilibrium' (aequi- equal + libra scale)",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "confection",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "means both sweet food and the act of making something",
+    "etymology": "from Latin 'conficere' meaning 'to make up, prepare'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "confiture",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from French 'confiture' meaning 'jam, preserve'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "cut-throat",
+    "pos": "adj",
+    "theme": "Slang",
+    "trap": "yes",
+    "trap_reason": "means ruthless but literally violent, confusing in connotation",
+    "etymology": "compound of 'cut' + 'throat'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "hoax",
+    "pos": "n",
+    "theme": "Daily Life",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "possibly from 'hoax' as a verb meaning 'to deceive'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "retentive",
+    "pos": "adj",
+    "theme": "Academic",
+    "trap": "no",
+    "trap_reason": "",
+    "etymology": "from Latin 'retentivus', from 'retenere' (to hold back)",
+    "career_relevance": "high",
+    "frequency": "\u2605"
+  },
+  {
+    "word": "abide",
+    "pos": "v",
+    "theme": "Daily Life",
+    "trap": "yes",
+    "trap_reason": "means to tolerate or remain, confusing for learners",
+    "etymology": "from Old English 'abidan' meaning 'to remain'",
+    "career_relevance": "low",
+    "frequency": "\u2605"
+  }
+]
